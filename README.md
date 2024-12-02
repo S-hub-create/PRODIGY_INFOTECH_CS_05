@@ -22,3 +22,22 @@ Network packet analyzers capture data packets in real-time, allowing users to in
 
 ### Enhanced Network Security
 By providing visibility into network traffic, packet analyzers help detect and prevent cyberattacks. They can identify suspicious activities, such as unauthorized access attempts, data exfiltration, and malware communication. Network administrators can use this information to implement security measures, such as blocking malicious IP addresses, updating firewall rules, and improving intrusion detection systems. Overall, network packet analyzers play a crucial role in maintaining the security and integrity of networked systems.
+
+## Steps for execution
+
+### Install python on any linux based system like "Kali Linux".
+### To install python on kali linux use command
+1. sudo apt update
+2. sudo apt install python3 -scapy
+### Open a text editor to create the script file. Use 'nano' or any other text editor available in Kali Linux
+3. nano packet_sniffer.py
+### write Caesar Cipher program code in text editor.
+### Save the file 
+4. Press 'CTRL+O' to save.
+5. Hit 'Enter' to confirm the file name.
+6. Press 'CTRL+X' to exit the editor.
+### Run the code/script
+7. sudo python3 packet_sniffer.py
+### Use the program
+8. Enter number of packets to be captured
+9. 
