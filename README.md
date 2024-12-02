@@ -1,4 +1,4 @@
-# PRODIGY_INFOTECH_CS_05
+# Packet Sniffer using Python
 
 # Network Packet Analyzer
 
