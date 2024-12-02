@@ -40,4 +40,6 @@ By providing visibility into network traffic, packet analyzers help detect and p
 7. sudo python3 packet_sniffer.py
 ### Use the program
 8. Enter number of packets to be captured
-9. 
+9. The packets will be captured.
+10. Each packet captured displays information like Protocol used, Source Ip, Destination IP, Source Port and Destination port.
+### This is how Network Packet Analyzer works. 
